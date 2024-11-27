@@ -1,2 +1,2 @@
 # About Project 
-![Employee Churn Prediction](URL_TO_IMAGE)
+![Employee Churn Prediction](https://raw.githubusercontent.com/Rahulhipparkar39667/Employee-Churn-Prediction-using-Ensemble-Learning-Techniques/refs/heads/main/DALL%C2%B7E%202024-11-27%2011.46.46%20-%20A%20corrected%20conceptual%20illustration%20showcasing%20employee%20churn%20prediction%20using%20ensemble%20learning%20algorithms%2C%20with%20proper%20representation%20of%20'Random%20For.webp)
